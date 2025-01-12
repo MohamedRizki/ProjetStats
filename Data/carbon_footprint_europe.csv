@@ -1,0 +1,30 @@
+Country,"Share
+[%]","Avg EF  
+[kgCO2eq/kWh]","Marginal EF (max/coal) 
+[kgCO2eq/kWh]","Marginal EF (min/gas) 
+[kgCO2eq/kWh]",europe_coordonnées_country,europe_coordonnées_latitude,europe_coordonnées_longitude,europe_coordonnées_name (nom),europe_coordonnées_europe_iso3,europe_coordonnées_europe_status,europe_coordonnées_europe_color_code,europe_coordonnées_europe_continent,europe_coordonnées_europe_region,europe_coordonnées_europe_french_sho
+Russian Federation,"0.112","0.75","1.716","0,932",RU,"61.52401","105.318756",Russia,RUS,Member State,RUS,Europe,Eastern Europe,Fédération de Russie
+Ukraine,"0.055","0.361","1.026","0,491",UA,"48.379433","31.16558",Ukraine,UKR,Member State,UKR,Europe,Eastern Europe,Ukraine
+Romania,"0.025","0.351","1.021","0,461",RO,"45.943161","24.96676",Romania,ROU,Member State,ROU,Europe,Eastern Europe,Roumanie
+Bulgaria,"0.017","0.351","1.021","0,461",BG,"42.733883","25.48583",Bulgaria,BGR,Member State,BGR,Europe,Eastern Europe,Bulgarie
+Hungary,"0.015","0.351","1.021","0,461",HU,"47.162494","19.503304",Hungary,HUN,Member State,HUN,Europe,Eastern Europe,Hongrie
+Spain,"0.013","0.351","1.021","0,461",ES,"40.463667","-3.74922",Spain,ESP,Member State,ESP,Europe,Southern Europe,Espagne
+Czech Republic,"0.013","0.351","1.021","0,461",CZ,"49.817492","15.472962",Czech Republic,CZE,Member State,CZE,Europe,Eastern Europe,République tchèque
+Germany,"0.012","0.351","1.021","0,461",DE,"51.165691","10.451526",Germany,DEU,Member State,DEU,Europe,Western Europe,Allemagne
+Sweden,"0.012","0.351","1.021","0,461",SE,"60.128161","18.643501",Suede,SWE,Member State,SWE,Europe,Northern Europe,Suède
+Italy,"0.011","0.351","1.021","0,461",IT,"41.87194","12.56738",Italy,ITA,Member State,ITA,Europe,Southern Europe,Italie
+Netherlands,"0.009","0.351","1.021","0,461",NL,"52.132633","5.291266",Netherlands,NLD,Member State,NLD,Europe,Western Europe,Pays-Bas
+Poland,"0.007","0.351","1.021","0,461",PL,"51.919438","19.145136",Poland,POL,Member State,POL,Europe,Eastern Europe,Pologne
+Latvia,"0.005","0.351","1.021","0,461",LV,"56.879635","24.603189",Latvia,LVA,Member State,LVA,Europe,Northern Europe,Lettonie
+Serbia,"0.003","0.361","1.026","0,491",RS,"44.016521","21.005859",Serbia,SRB,Member State,SRB,Europe,Southern Europe,Serbie
+Lithuania,"0.003","0.351","1.021","0,461",LT,"55.169438","23.881275",Lithuania,LTU,Member State,LTU,Europe,Northern Europe,Lituanie
+Greece,"0.003","0.351","1.021","0,461",GR,"39.074208","21.824312",Greece,GRC,Member State,GRC,Europe,Southern Europe,Grèce
+Croatia,"0.002","0.351","1.021","0,461",HR,"45.1","15.2",Croatia,HRV,Member State,HRV,Europe,Southern Europe,Croatie
+Slovakia,"0.002","0.351","1.021","0,461",SK,"48.669026","19.699024",Slovakia,SVK,Member State,SVK,Europe,Eastern Europe,Slovaquie
+Slovenia,"0.001","0.351","1.021","0,461",SI,"46.151241","14.995463",Slovenia,SVN,Member State,SVN,Europe,Southern Europe,Slovénie
+Belgium,"0","0.351","1.021","0,461",BE,"50.503887","4.469936",Belgium,BEL,Member State,BEL,Europe,Western Europe,Belgique
+Iceland,"0","0.351","1.021","0,461",IS,"64.963051","-19.020835",Iceland,ISL,Member State,ISL,Europe,Northern Europe,Islande
+Albania,"0","0.361","1.026","0,491",AL,"41.153332","20.168331",Albania,ALB,Member State,ALB,Europe,Southern Europe,Albanie
+Belarus,"0","0.361","1.026","0,491",BY,"53.709807","27.953389",Belarus,BLR,Member State,BLR,Europe,Eastern Europe,Bélarus
+Finland,"0","0.351","1.021","0,461",FI,"61.92411","25.748151",Finland,FIN,Member State,FIN,Europe,Northern Europe,Finlande
+Estonia,"0","0.351","1.021","0,461",EE,"58.595272","25.013607",Estonia,EST,Member State,EST,Europe,Northern Europe,Estonie

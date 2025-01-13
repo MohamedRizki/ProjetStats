@@ -61,6 +61,7 @@ ggplot() +
 
 # 2. Calculer la densité KDE pour les points de Bitcoin Mining
 # Définir la bande passante sigma pour contrôler le lissage de la densité
+# Nous avons tester plusieurs valeurs ici et nous avons constatés que 50000 est la meuilleur valeur
 sigma_value <- 50000
 # Calculer la densité spatiale avec la fonction
 kde_proj <- density(ppp_data_proj, sigma = sigma_value)
@@ -182,7 +183,7 @@ ggplot() +
   theme_minimal()
 
 # 2. Modèle à auto-régression spatiale (SAR)
-# Assurez-vous que Carbon_Footprint et capacity_m ne contiennent pas de valeurs NA
+# On vérifie premièrement que que Carbon_Footprint et capacity_m ne contiennent pas de valeurs NA
 bitcoin_carbon_sf <- bitcoin_carbon_sf %>%
   filter(!is.na(Carbon_Footprint), !is.na(capacity_m))
 # Créer une matrice de voisinage spatiale pour les données filtrées
